@@ -5,6 +5,3 @@ Framework JS
 Framework PHP
 - Codeigniter
 - Laravel
-  - RESTfull API
-Framework CSS
-- Tailwindcss

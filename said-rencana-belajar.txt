@@ -1,7 +1,10 @@
 Rencana Said Belajar
+Framework JS
 - Reactjs
 - Nextjs
+Framework PHP
 - Codeigniter
 - Laravel
   - RESTfull API
+Framework CSS
 - Tailwindcss

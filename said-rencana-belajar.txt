@@ -1,0 +1,6 @@
+Rencana Said Belajar
+- Reactjs
+- Nextjs
+- Codeigniter
+- Laravel
+  - RESTfull API

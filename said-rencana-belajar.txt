@@ -6,4 +6,6 @@ Rencana Said Belajar
 - Codeigniter
 - Laravel
   - RESTfull API
+Framework CSS
 - Tailwindcss
+- Bootstrap

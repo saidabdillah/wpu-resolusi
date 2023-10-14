@@ -1,2 +1,11 @@
 Rencana Said Belajar
-- Fokus belajar semuanya
+- Reactjs
+  - Membuat stack MERN
+  - Membuat Native Reactjs
+- Nextjs
+- Codeigniter
+- Laravel
+  - RESTfull API
+Framework CSS
+- Tailwindcss
+- Bootstrap

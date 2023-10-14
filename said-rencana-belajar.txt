@@ -1,7 +1,2 @@
 Rencana Said Belajar
-Framework JS
-- Reactjs
-- Nextjs
-Framework PHP
-- Codeigniter
-- Laravel
+- Fokus belajar semuanya

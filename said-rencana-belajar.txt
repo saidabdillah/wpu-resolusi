@@ -1,5 +1,7 @@
 Rencana Said Belajar
 - Reactjs
+  - Membuat stack MERN
+  - Membuat Native Reactjs
 - Nextjs
 - Codeigniter
 - Laravel
